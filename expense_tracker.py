@@ -19,9 +19,5 @@ while True:
             print(item, amount)
             total += amount
         print("Total:", total)
-
     elif choice == "3":
         break
-    else:
-        print("thank u. we r exiting.")
-        

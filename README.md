@@ -1,27 +1,27 @@
 
-# 📝 Todo CLI App
+#  Todo CLI App
 
 A simple command-line Todo application built using Python.
 This app allows users to manage daily tasks directly from the terminal.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* ➕ Add new tasks
-* 📋 View all tasks
-* ❌ Delete tasks
-* 🔁 Interactive menu-based system
+*  Add new tasks
+*  View all tasks
+*  Delete tasks
+*  Interactive menu-based system
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python (Core concepts: loops, lists, conditionals)
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open terminal in project folder
 2. Run the program:
@@ -32,7 +32,7 @@ python todo.py
 
 ---
 
-## 💡 Example Usage
+##  Example Usage
 
 ```
 1 Add Task
@@ -43,7 +43,7 @@ python todo.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 todo-cli-app
@@ -52,16 +52,16 @@ todo-cli-app
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
-* 💾 Save tasks to a file (persistent storage)
-* 📂 Load tasks on startup
-* 🏷️ Add task categories
-* ✅ Mark tasks as completed
+*  Save tasks to a file (persistent storage)
+*  Load tasks on startup
+*  Add task categories
+*  Mark tasks as completed
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Vamsiraj Raj**
-Aspiring Python Developer | Learning by building real projects 🚀
+**Bandari vamsi raju**
+Aspiring Python Developer | Learning by building real projects.
